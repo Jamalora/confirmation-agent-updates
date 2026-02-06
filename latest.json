@@ -1,0 +1,11 @@
+{
+  "version": "0.0.0",
+  "notes": "Placeholder release",
+  "pub_date": "2026-02-06T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "REPLACE_WITH_SIGNATURE_FOR_APP_X64_SETUP_EXE",
+      "url": "https://jamalora.github.io/confirmation-agent-updates/app_x64-setup.exe"
+    }
+  }
+}
