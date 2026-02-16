@@ -1,11 +1,11 @@
 {
-  "version": "0.2.14",
+  "version": "0.3.3",
   "notes": "test release",
   "pub_date": "2026-02-06T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHpDMlMvL0dqOFBVdGZqb2N6ZkF2SXRqS204NnVpM00xOXNHcStmTm1MT2ZwU0Z0SEMxQVhJTEFncGovVzlhSlVpL09LVnlCN2txOFVjMmlvc2JCVTJENlNTUmNVSndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMzgyMjU4CWZpbGU6Y29uZmlybWF0aW9uLWFnZW50XzAuMi4wX3g2NC1zZXR1cC5leGUKMFR1SXZPUWFGUU9oR0NZOTR5Z09EVnpibFA0UXlGYThvOXhYTStRM3hNcVNScWE4YzIvdlY1cUJzWFJQVmpLZlFscjdxZXJnU2ttRnc3Z1F3UG5wQ1E9PQo=",
-      "url": "https://jamalora.github.io/confirmation-agent-updates/confirmation-agent_0.2.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHpDMlMvL0dqOEEycjJSMUJ0dEtYZzdGSlg1VEZ5amdES0FyMGJvdHpkSEYxQVV6SjUvR1U0cWVUaTNjQWpnSElxR3EvdG5WYVJCQTZyNnBuZk1KckhtZUlkSUhQcFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMjUwNzU4CWZpbGU6TW9mYXZvXzAuMi4wX3g2NC1zZXR1cC5leGUKajN4em9mbzhubythdXZWalNnckVURkNRRFJBcGFadDRMU2RwL1U0TENQdUxZTjRxMTZWbGRBVUNMTHpJd2wrV095WXhjTjRZQXRkS3JvZjVKSTdhQkE9PQo=",
+      "url": "https://jamalora.github.io/confirmation-agent-updates/Mofavo_0.3.3_x64-setup.exe"
     }
   }
 }
