@@ -1,11 +1,11 @@
 {
-  "version": "0.4.1",
+  "version": "0.4.2",
   "notes": "",
-  "pub_date": "2026-06-08T14:35:19.305Z",
+  "pub_date": "2026-06-08T15:31:56.282Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHpDMlMvL0dqOEdTWEh6U0NPRGl2eDdLejF3VTJBZGNsYklXOUUvYmZyTHQrN2ZNVTZUcVlYYVczOGY5NFdIYW1ubThRNEs1bGlzSlVPRFdwcXNVR2l2R1FmWjJ0a0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTI5MzE0CWZpbGU6TU9GQVZPXzAuNC4xX3g2NC1zZXR1cC5leGUKYzhYL1FBOURWd2lwUnp6T1FlSjJmWXhQUjB1ODZJNWhzNmt6WVdkUy81OFBXMWg2eWpvNDRGbUs4a3dNblpSckdHd21Ubkp1VEhYYW1mcnRVVlJvQkE9PQo=",
-      "url": "https://jamalora.github.io/confirmation-agent-updates/MOFAVO_0.4.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHpDMlMvL0dqOEViVll1dXU5YTQyWlc4cGZ4dlB2TUVsTisrNnhMVFdsZVdPL1Jac3Z4WFpXNEdGQUhUOGt5ZlpjMG5iMjdlUVhTKzF3TkU0ck1XakJBcUh2L3Y1b0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTMyNzExCWZpbGU6TU9GQVZPXzAuNC4yX3g2NC1zZXR1cC5leGUKR0x4MG80b0tRL2ZqZ0RRZ2w0MjFoTk5DenZPWUUxVUxNS09EUUkrVnpwOHI4bE1QamJ3dXF1RE9zZHNFTGlmajMzZXRkSWJhU3Y4QmlJaUlkY21UQ3c9PQo=",
+      "url": "https://jamalora.github.io/confirmation-agent-updates/MOFAVO_0.4.2_x64-setup.exe"
     }
   }
 }
