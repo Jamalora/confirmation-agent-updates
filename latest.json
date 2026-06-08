@@ -4,16 +4,8 @@
   "pub_date": "2026-06-08T14:35:19.305Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHpDMlMvL0dqOE5OMkFPSGNoVysyRHVDckxDT0hYeW1xenU0c3BzYmVPOWV1Uys5bUo0bTNvUWxKb1NXV0x5emhYQ0l0V0t3Mm56QzBxQTA5OC9ydTUwbnZKWjByZlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTI5MzE0CWZpbGU6TU9GQVZPXzAuNC4xX3g2NF9lbi1VUy5tc2kKdEt2TmNySld1STRVQ1RlNXdUSVZlNjRaZFhEMENLc09xVmlwbnVYMFFBYmdUSGVzVGFKMFBZK1pucXJmK1F3S0ZCQ1J5VHJwVDVFQVN0VFU0QXEvREE9PQo=",
-      "url": "https://jamalora.github.io/confirmation-agent-updates/MOFAVO_0.4.1_x64-setup.exe"
-    },
-    "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHpDMlMvL0dqOE5OMkFPSGNoVysyRHVDckxDT0hYeW1xenU0c3BzYmVPOWV1Uys5bUo0bTNvUWxKb1NXV0x5emhYQ0l0V0t3Mm56QzBxQTA5OC9ydTUwbnZKWjByZlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTI5MzE0CWZpbGU6TU9GQVZPXzAuNC4xX3g2NF9lbi1VUy5tc2kKdEt2TmNySld1STRVQ1RlNXdUSVZlNjRaZFhEMENLc09xVmlwbnVYMFFBYmdUSGVzVGFKMFBZK1pucXJmK1F3S0ZCQ1J5VHJwVDVFQVN0VFU0QXEvREE9PQo=",
-      "url": "https://github.com/Jamalora/confirmation-agent/releases/download/v0.4.1/MOFAVO_0.4.1_x64_en-US.msi"
-    },
-    "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHpDMlMvL0dqOEdTWEh6U0NPRGl2eDdLejF3VTJBZGNsYklXOUUvYmZyTHQrN2ZNVTZUcVlYYVczOGY5NFdIYW1ubThRNEs1bGlzSlVPRFdwcXNVR2l2R1FmWjJ0a0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTI5MzE0CWZpbGU6TU9GQVZPXzAuNC4xX3g2NC1zZXR1cC5leGUKYzhYL1FBOURWd2lwUnp6T1FlSjJmWXhQUjB1ODZJNWhzNmt6WVdkUy81OFBXMWg2eWpvNDRGbUs4a3dNblpSckdHd21Ubkp1VEhYYW1mcnRVVlJvQkE9PQo=",
-      "url": "https://github.com/Jamalora/confirmation-agent/releases/download/v0.4.1/MOFAVO_0.4.1_x64-setup.exe"
+      "url": "https://jamalora.github.io/confirmation-agent-updates/MOFAVO_0.4.1_x64-setup.exe"
     }
   }
 }
